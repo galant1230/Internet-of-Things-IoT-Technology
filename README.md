@@ -3,6 +3,7 @@
 ## 📌 Description
 本專案致力於開發 **智慧穿戴式裝置**，透過 **ANT+** 偵測佩戴者的 **心率變化**，若系統發現異常，將立即通報給 **定位程式**，並使用 **MQTT 及 LINE Notify** 進行緊急通知。  
 此外，系統整合 **iBeacon Library** 及 **雷達掃描技術** 來確定事故發生地點，並派遣 **小鴨車** 進行即時影像回傳，協助觀護人員做出即時應對。
+[Demo](https://www.youtube.com/watch?v=svAmBd3rSOQ&ab_channel=RenTsai)
 
 ---
 
