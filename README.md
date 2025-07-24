@@ -27,7 +27,6 @@
 ---
 
 ## ⚙️ 技術架構
-- **感測技術**：ANT+、Garmin Monitor
 - **通訊技術**：MQTT、LINE Notify
 - **定位技術**：iBeacon Library、Radar Location
 - **行動偵測**：Movestick Mini
